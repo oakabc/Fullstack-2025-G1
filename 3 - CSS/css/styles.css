@@ -1,0 +1,31 @@
+body {
+    background-color: blue;
+    text-align: center;
+}
+table {
+    margin: auto;
+}
+img {
+    border-radius: 50%;
+
+    height: 600px;
+}
+
+hr {
+  
+  border-style: dotted none none;
+  height: 0px;
+  width: 30%;
+  border-color: grey;
+  border-width:10px;
+
+}
+
+
+.rain {
+    color: #72BAA9;
+}
+
+.hot {
+    color: #D5E7B5;
+}
