@@ -1,0 +1,29 @@
+.top-container {
+    background-color: #C7F2A4;
+    padding-top:100px;
+    position:relative;
+}
+h1 {
+    
+    width: 50%;
+    margin: 0 auto;
+    
+}
+body {
+    margin: 0;
+    text-align: center;
+}
+.underline {
+    text-decoration: underline;
+}
+.bottom-cloud {
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
+
+.top-cloud{
+    position:absolute;
+  top:50px;
+  right:300px;
+}
